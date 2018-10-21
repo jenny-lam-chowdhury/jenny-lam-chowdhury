@@ -67,7 +67,12 @@
                 </p>
     </div>
 	<footer class="main-footer">             
-         <script>document.write(new Date().getFullYear())</script><span> &copy; by Jenny Y. Lam-Chowdhury</span>
+         <p class="date_output"></p>       
+                   <script>                  
+                        var x = document.getElementsByClassName("date_output");
+                        x[0].innerHTML = new Date().getFullYear() +" &copy; by Jenny Y. Lam-Chowdhury";
+                    
+                    </script>
     </footer>	
 </body>
 </html>
