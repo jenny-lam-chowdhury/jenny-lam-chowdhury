@@ -252,13 +252,13 @@ img {
   max-width:1150px;
 
 }
-.sticky {
+/* .sticky {
 	position: fixed;
 	left: 0;
 	bottom: 0;
 	padding-top: 1.5em;
 	width: 100%;
-}	
+}	 */
 .primary {
   width: 50%;
 }
