@@ -184,6 +184,9 @@ img {
 	.main-nav li {
 		float: left;
 	}
+a {
+	text-decoration: none;
+}	
 
 .name {
   margin-top:0;
@@ -259,6 +262,9 @@ img {
 	padding-top: 1.5em;
 	width: 100%;
 }	 */
+a {
+	text-decoration: none;
+}	
 .primary {
   width: 50%;
 }
